@@ -1,9 +1,11 @@
 Company Theme example for Icinga Web 2
 ======================================
 
-This theme example for Icinga Web 2 give you an idea how to start with themeing.
+This is an example to give you an idea how to start modifying the theme
+of Icinga Web 2 to your needs.
 
-The theme is tweaking a few bits:
+Only a few things are tweaked right now:
+
 * Main logo in the interface replaced by a corporate logo
 * Colors of Icinga tuned for a corporate CI
 * Login background changed
@@ -11,6 +13,12 @@ The theme is tweaking a few bits:
 ![Screenshot Login](screenshots/login.png)
 
 ![Screenshot Tactical Overview](screenshots/tac.png)
+
+In every theme, the base theme of Icinga Web 2 is applied, and modifications need to be
+added incrementally.
+
+You can find the overall theme on [GitHub](https://github.com/Icinga/icingaweb2/tree/master/public/css/icinga)
+or on your local system under `/usr/share/icingaweb2/public/css/icinga`.
 
 ## How to install
 
