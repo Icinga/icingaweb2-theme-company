@@ -4,6 +4,9 @@ Company Theme example for Icinga Web 2
 This is an example to give you an idea how to start modifying the theme
 of Icinga Web 2 to your needs.
 
+Requires:
+* Icinga Web 2.5 or newer
+
 Only a few things are tweaked right now:
 
 * Main logo in the interface replaced by a corporate logo
